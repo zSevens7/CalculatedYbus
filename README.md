@@ -58,4 +58,4 @@ Este projeto é livre para uso acadêmico e pessoal.
 
 ---
 
-Criado por [Seu Nome ou Nickname] 🚀
+Criado por [Gabriel Teperino Percegoni Figueira] 🚀
